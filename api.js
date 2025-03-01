@@ -5,7 +5,7 @@ const btn = document.querySelector("#btn");
 const options = {
     method: 'GET',
     headers: {
-        'x-rapidapi-key': '1490448b85msha4c285d5184fff6p1f2d17jsnd1b928b879ee', // Replace with your actual API key
+        'x-rapidapi-key': '1490448b85msha4c285d5184fff6p1f2d17jsnd1b928b879ee',
         'x-rapidapi-host': 'fun-facts1.p.rapidapi.com'
     }
 };
